@@ -1,5 +1,6 @@
 #include "Vector.h"
 #include <stdexcept>
+#include <math.h>
 
 Vector::Vector(int x, int y) : dim(2)
 {

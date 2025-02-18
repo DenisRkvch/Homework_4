@@ -4,7 +4,7 @@
 using ::testing::Return;
 using ::testing::Throw;
 
-#include <cmath>
+#include <math.h>
 
 #include "../SpaceBattle/Vector.h"
 #include "../SpaceBattle/IFuelUsing.h"
